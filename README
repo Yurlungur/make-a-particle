@@ -1,0 +1,16 @@
+========================
+Make a Particle
+========================
+
+Author: Jonah Miller (jonah.maxwell.miller@gmail.com)
+
+This little directory contains everything you need to make the animations
+found in this blog post:
+http://www.thephysicsmill.com/2015/01/18/whats-in-a-particle/
+
+To run, just clone the directory and call python2 on
+make_a_particle.py
+
+Alternatively, you can interact with the code dynamically using an
+IPython notebook. See:
+http://nbviewer.ipython.org/github/jvns/talks/blob/master/pydatanyc2013/PyData%20NYC%202013%20tutorial.ipynb
